@@ -1,0 +1,3 @@
+[build]
+  functions = "netlify-functions"  # 设置为后端函数目录
+  publish = "build"  # 前端文件目录（这里你可以修改为你的前端目录）
